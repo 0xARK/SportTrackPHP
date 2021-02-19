@@ -36,7 +36,7 @@ The aim of the project was to create a web application allowing a user with a bl
 
 ## Installation
 
-If you want to try this battlship, first you have to clone this repository :
+If you want to try this application, first you have to clone this repository :
 
 ```bash
 git clone https://github.com/0xARK/SportTrackPHP
